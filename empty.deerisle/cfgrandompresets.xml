@@ -675,7 +675,7 @@
     <item name="AmmoBox_762x39_20Rnd" chance="0.05" />
     <item name="AmmoBox_762x54_20Rnd" chance="0.05" />
     <item name="AmmoBox_9x29_20Rnd" chance="0.05" />
-    <item name="jmc_SnowOwl_Ammo" chance="0.05" />
+    <item name="jmc_SnowOwl_Ammo" chance="0.03" />
   </cargo>
   <cargo chance="0.20" name="mixArmyJMC">
     <item name="Mag_CMAG_40Rnd" chance="0.05" />
@@ -699,10 +699,10 @@
 	<item name="STAG_Clothing_DryBag" chance="0.1" />    
     <item name="STAG_SmershBag" chance="0.1" />    
   </attachments>  
-  <attachments chance="0.05" name="STAG_Vests">
-    <item name="STAG_Clothing_Vest" chance="0.3" />
+  <attachments chance="0.01" name="STAG_Vests">
+    <item name="STAG_Clothing_Vest" chance="0.1" />
 	<item name="STAG_SmershVest" chance="0.2" />
-    <item name="STAG_Clothing_PlateCarrier" chance="0.02" />    
+    <item name="STAG_Clothing_PlateCarrier" chance="0.01" />    
   </attachments>   
   <cargo chance="0.90" name="STAG_Clothing">
     <item name="STAG_AmmoBox_SnowOwl" chance="0.01" />
