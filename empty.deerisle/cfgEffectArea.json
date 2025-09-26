@@ -23,7 +23,7 @@
 				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
 			}
 		},
-        { 	"AreaName": "BarringerCrater", 
+    { 	"AreaName": "BarringerCrater", 
 			"Type": "ContaminatedArea_Static", 
 			"TriggerType": "ContaminatedTrigger",
 			"Data": { 

@@ -85,8 +85,6 @@
 	<pos x="12928.28" z="977.5114" y="1.5" />
 	<pos x="2140.828" z="14644.68" y="1.5" />
   </event>
-
-
   <event name="VehicleCivilianSedan">
     <pos x="6977.063" z="1930.387" a="355.8747" />
     <pos x="10146.64" z="10834.52" a="246.4799" />
@@ -326,7 +324,7 @@
     <pos x="10216.38" z="10940.11" a="62.4494" />
     <pos x="6170.297" z="14231.28" a="358.7652" />
   </event>
-	<event name="VehicleOffroad02">
+  <event name="VehicleOffroad02">
 		<pos x="10882.95" z="10372.26" a="206.9706" />
 		<pos x="7230.922" z="11726.98" a="166.8778" />
 		<pos x="2464.609" z="3357.813" a="254.8661" />
@@ -344,8 +342,7 @@
 		<pos x="2922.297" z="8444.329" a="14.17387" />
 		<pos x="14599.09" z="5311.229" a="351.4236" />
 		<pos x="6197.625" z="13919.72" a="190.2793" />
-    </event>  
-  
+    </event>    
   <event name="StaticPoliceCar">
     <zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
     <pos x="7005.344" z="1506.802" a="62.26622" />
@@ -536,7 +533,7 @@
     <pos x="7048.95" y="3.98036" z="9660.99" a="0" />
 
   </event>
-  	<event name="StaticSurvivorCamps">
+  <event name="StaticSurvivorCamps">
 		<zone smin="0" smax="1" dmin="0" dmax="0" r="40" />
     	<pos x="6026.500" z="5679.635" a="0" y="185.927" group="Camp_01"/>
 		<pos x="5199.594" z="5784.471" a="0" y="183.568" group="Camp_01"/>
@@ -569,7 +566,7 @@
 		<pos x="10739.813" z="6189.884" a="0" y="90.150" group="Camp_01"/>
 		<pos x="2644.047" z="14520.172" a="0" y="3.036" group="Camp_01"/>
 	</event>	
-  	<event name="StaticConvoys">
+  <event name="StaticConvoys">
 		<zone smin="0" smax="1" dmin="0" dmax="0" r="40" />
     	<pos x="10024.588867" z="5522.352539" a="0" y="33.997204" group="Convoy1"/>	
 		<pos x="13482.123047" z="4804.984375" a="0" y="10.434548" group="Convoy2"/>
@@ -584,7 +581,7 @@
 		<pos x="9034.532227" z="10219.848633" a="0" y="13.661717" group="Convoy11"/>
 		<pos x="6789.473633" z="12483.323242" a="0" y="514.087952" group="Convoy12"/>
 	</event>	
-	<event name="StaticPoliceCheckpoints">
+  <event name="StaticPoliceCheckpoints">
 		<zone smin="0" smax="1" dmin="0" dmax="0" r="40" />
     	<pos x="5818.043945" z="8314.501953" a="0" y="10.779129" group="Police1"/>
 		<pos x="5541.522949" z="7240.893555" a="0" y="27.460871" group="Police2"/>
@@ -597,7 +594,7 @@
 		<pos x="3476.910889" z="4863.691895" a="0" y="32.097652" group="Police9"/>
 		<pos x="5002.008301" z="6342.842773" a="0" y="10.590029" group="Police10"/>
 	</event>	
-	<event name="StaticWreckedTrains">
+  <event name="StaticWreckedTrains">
 		<zone smin="0" smax="1" dmin="0" dmax="0" r="40" />
     	<pos x="5960.517578" z="6327.681641" a="0" y="22.901196" group="Train1"/>
 		<pos x="4321.183594" z="5918.104980" a="0" y="22.851048" group="Train2"/>
@@ -609,7 +606,7 @@
 		<pos x="8964.531250" z="12637.794922" a="0" y="7.977860" group="Train8"/>
 		<pos x="6687.965820" z="13550.395508" a="0" y="7.881456" group="Train9"/>
 	</event>		
-	<event name="StaticScientist">
+  <event name="StaticScientist">
 		<zone smin="0" smax="0" dmin="1" dmax="1" r="20" />		
 		<pos x="14073.36" y="171.764725" z="15716.28" a="0" 		group="Scientist"/>
 		<pos x="13855.63" y="2.680000"   z="12654.31" a="119.4437"  group="Scientist"/>
@@ -621,7 +618,7 @@
 		<pos x="14723.05" y="251.536926" z="13777.5"  a="217.1616" 	group="Scientist"/>
 		<pos x="14942.45" y="187.293350" z="13602.87" a="73.86858" 	group="Scientist"/>			
 	</event>	
-	<event name="StaticAirplaneCrate">
+  <event name="StaticAirplaneCrate">
 		<zone smin="0" smax="0" dmin="0" dmax="0" r="0" />
 		<pos x="4260.953" z="7065.536" a="291.5459" />
 		<pos x="3506.172" z="6797.697" a="0" />
