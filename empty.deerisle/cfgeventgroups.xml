@@ -21,230 +21,229 @@
 		<child type="Land_jmc_skeleton_old_2" deloot="0" lootmax="1" lootmin="1" x="1.794" z="-1.940" a="304.566" y="0.050"/>			
     </group>       
 	
-<!-- Parent selected as: Land_wreck_truck01_aban1_green_DE pos: 1384.767822 111.230927 12798.476563 orientation: 174.218582 6.660050 -1.231350 -->
-<!--<pos x="1384.767822" z="12798.476563" a="0" y="111.230927" group="GROUP_NAME_HERE"/>-->
+	<!-- Parent selected as: Land_Wreck_Uaz pos: 10024.588867 33.997204 5522.352539 orientation: 98.814995 0.000000 -0.000000 -->
+	<!--<pos x="10024.588867" z="5522.352539" a="0" y="33.997204" group="Convoy1"/>-->
 	<group name="Convoy1">
-		<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="174.218582"/>
-		<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="2.9395" z="-17.4473" y="1.8637" a="173.826675"/>
-		<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="5.7894" z="-37.7021" y="4.4891" a="173.330704"/>
-		<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="-1.8530" z="17.7744" y="-0.5676" a="173.120956"/>
-		<child type="Land_Wreck_offroad02_aban1_DE" deloot="0" lootmax="3" lootmin="1" x="7.0684" z="-51.8037" y="8.5197" a="183.958664"/>
-		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="5.1652" z="-45.2568" y="6.5016" a="104.746872"/>
-		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="1.3453" z="-8.5479" y="1.7985" a="99.4272"/>
-		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-3.4178" z="-2.1260" y="1.2139" a="0"/>
-		<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="8.8956" z="-46.0137" y="6.6076" a="0"/>
-		<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="4.1443" z="-25.2441" y="3.4196" a="157.878601"/>
+		<child type="Land_Wreck_Uaz" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="98.814995"/>
+		<child type="StaticObj_Wreck_Decal_Small1_DE" deloot="0" lootmax="3" lootmin="1" x="1.8545" z="-0.2139" y="1.0017" a="273.033768"/>
+		<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="9.0283" z="-1.3066" y="0.7537" a="87.075996"/>
+		<child type="Land_Wreck_V3S_DE" deloot="0" lootmax="3" lootmin="1" x="19.2100" z="-0.6973" y="0.6051" a="91.246552"/>
+		<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="28.9814" z="-1.1108" y="-0.8960" a="98.611076"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="-9.0898" z="1.5059" y="-0.9871" a="97.552177"/>
+		<child type="StaticObj_Wreck_Decal_Small1_DE" deloot="0" lootmax="3" lootmin="1" x="-7.4902" z="0.8633" y="0.9809" a="261.342285"/>
+		<child type="StaticObj_Wreck_Decal_Small1_DE" deloot="0" lootmax="3" lootmin="1" x="23.5967" z="-0.7080" y="1.0122" a="273.033768"/>
+		<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="-3.8428" z="1.0732" y="-0.2826" a="0"/>
+		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="15.1260" z="1.7085" y="0.0156" a="0"/>
+		<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="30.9111" z="-3.6626" y="0.0541" a="0"/>
+		<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="41.0635" z="-2.3984" y="0.8265" a="100.407578"/>
+		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="53.2197" z="-1.3286" y="0.1681" a="190.154358"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="49.9248" z="-4.4814" y="-0.7446" a="105.684273"/>
+		<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="51.3633" z="-0.5601" y="-0.1033" a="0"/>
 	</group>
 	
-<!-- Parent selected as: Land_wreck_truck01_aban1_green_DE pos: 1537.845459 6.879359 11517.559570 orientation: 108.278748 0.470911 0.023354 -->
-<!--<pos x="1537.845459" z="11517.559570" a="0" y="6.879359" group="GROUP_NAME_HERE"/>-->
-<group name="Convoy2">
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="108.278748"/>
-	<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="-53.7245" z="16.5381" y="1.4021" a="108.07132"/>
-	<child type="Land_Wreck_offroad02_aban1_DE" deloot="0" lootmax="3" lootmin="1" x="13.6757" z="-4.8975" y="2.3801" a="118.775536"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="6.7589" z="-3.8027" y="1.1480" a="39.769367"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-6.9154" z="5.6064" y="0.8397" a="34.277428"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-4.6525" z="-1.1289" y="0.8795" a="294.897057"/>
-	<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="-41.9985" z="16.1973" y="0.3095" a="294.878983"/>
-	<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="-30.3606" z="7.0049" y="0.2096" a="92.927299"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="-36.8777" z="10.7441" y="-0.0841" a="109.161888"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="-20.0167" z="5.7588" y="-0.2651" a="108.772766"/>
-</group>
+	<!-- Parent selected as: Land_Wreck_Uaz pos: 13482.123047 10.434548 4804.984375 orientation: 34.629410 0.000000 -0.000000 -->
+	<!--<pos x="13482.123047" z="4804.984375" a="0" y="10.434548" group="Convoy2"/>-->
+	<group name="Convoy2">
+		<child type="Land_Wreck_Uaz" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="34.62941"/>
+		<child type="StaticObj_Wreck_Decal_Small1_DE" deloot="0" lootmax="3" lootmin="1" x="1.0020" z="1.5771" y="1.0017" a="208.851044"/>
+		<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="-9.2666" z="-15.3267" y="0.7444" a="28.775515"/>
+		<child type="Land_Wreck_V3S_DE" deloot="0" lootmax="3" lootmin="1" x="12.4238" z="20.0005" y="0.5999" a="27.0609"/>
+		<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="5.2314" z="12.7114" y="-0.8961" a="34.425495"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="-5.2383" z="-7.8037" y="-0.9978" a="33.366653"/>
+		<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="-2.2344" z="-7.0029" y="-0.2857" a="295.815536"/>
+		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="8.9639" z="10.7510" y="0.0043" a="295.815536"/>
+		<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="20.6660" z="32.1875" y="0.0481" a="295.815506"/>
+		<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="3.6650" z="6.6689" y="0.8160" a="27.045929"/>
+		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-4.8340" z="-2.1479" y="0.1680" a="125.969162"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="16.2324" z="28.7808" y="-0.7486" a="31.895372"/>
+		<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="8.0146" z="21.4805" y="-0.1069" a="295.815536"/>
+	</group>
 	
-<!-- Parent selected as: Land_wreck_truck01_aban1_green_DE pos: 3281.990967 40.364460 11075.295898 orientation: 176.857529 -13.588487 2.368222 -->
-<!--<pos x="3281.990967" z="11075.295898" a="0" y="40.364460" group="GROUP_NAME_HERE"/>-->
-<group name="Convoy3">
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="176.857529"/>
-	<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="27.7292" z="41.8438" y="7.4822" a="180.492279"/>
-	<child type="Land_Wreck_offroad02_aban1_DE" deloot="0" lootmax="3" lootmin="1" x="9.9351" z="-11.9854" y="-0.4731" a="108.179245"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="6.3738" z="7.7959" y="2.5104" a="136.150818"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="7.1453" z="-1.7285" y="0.1259" a="130.659973"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="2.8574" z="11.0342" y="3.0743" a="31.276398"/>
-	<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="17.8752" z="19.9463" y="4.3191" a="31.259367"/>
-	<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="18.6692" z="25.6592" y="4.6416" a="189.308304"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="22.7551" z="31.4473" y="4.8151" a="205.541183"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="10.7957" z="19.2461" y="3.1844" a="233.073235"/>
-</group>
+	<!-- Parent selected as: Land_Wreck_Uaz pos: 12323.192383 3.599610 7692.960938 orientation: -68.569122 0.000000 -0.000000 -->
+	<!--<pos x="12323.192383" z="7692.960938" a="0" y="3.599610" group="Convoy2"/>-->
+	<group name="Convoy3">
+		<child type="Land_Wreck_Uaz" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="291.430878"/>
+		<child type="StaticObj_Wreck_Decal_Small1_DE" deloot="0" lootmax="3" lootmin="1" x="-40.3418" z="11.7593" y="0.8304" a="115.906212"/>
+		<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="-11.6035" z="2.6699" y="0.8780" a="290.553696"/>
+		<child type="Land_Wreck_V3S_DE" deloot="0" lootmax="3" lootmin="1" x="-65.3154" z="21.9087" y="0.4294" a="302.730362"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="-23.2881" z="5.7397" y="-0.8559" a="282.128632"/>
+		<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="-28.6660" z="5.4688" y="-0.2951" a="202.871506"/>
+		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-57.0869" z="16.8198" y="0.2053" a="202.871506"/>
+		<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="-67.6504" z="26.0059" y="-0.4278" a="202.871994"/>
+		<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="-79.2207" z="33.0479" y="0.1544" a="311.279957"/>
+		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-28.4609" z="8.0117" y="-0.0375" a="33.024296"/>
+		<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="-42.3877" z="11.2666" y="-0.3295" a="202.871506"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="-36.4092" z="8.9282" y="-1.0159" a="282.128632"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="-51.9688" z="14.7622" y="-1.0409" a="293.581436"/>
+	</group>
 	
-<!-- Parent selected as: Land_wreck_truck01_aban1_green_DE pos: 4744.689941 47.888325 12576.095703 orientation: 84.031105 2.819490 0.435660 -->
-<!--<pos x="4744.689941" z="12576.095703" a="0" y="47.888325" group="GROUP_NAME_HERE"/>-->
-<group name="Convoy4">
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="84.031105"/>
-	<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="-51.4839" z="-18.7842" y="0.6988" a="61.005676"/>
-	<child type="Land_Wreck_offroad02_aban1_DE" deloot="0" lootmax="3" lootmin="1" x="16.1436" z="1.7324" y="2.4620" a="84.930626"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-34.8950" z="-6.5469" y="-0.2093" a="355.484831"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-29.6694" z="-9.6836" y="-0.1825" a="217.741135"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-9.2886" z="-11.2100" y="0.3722" a="170.418549"/>
-	<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="-6.2417" z="-1.4346" y="0.5847" a="249.800423"/>
-	<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="19.9683" z="5.9951" y="1.4590" a="47.933926"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="-37.3184" z="-11.9854" y="-1.1105" a="64.020966"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="-14.8672" z="-3.5781" y="-0.6310" a="72.679955"/>
-</group>
+	<!-- Parent selected as: Land_Wreck_Uaz pos: 5511.870117 11.147954 6239.143066 orientation: -22.703939 0.000000 -0.000000 -->
+	<!--<pos x="5511.870117" z="6239.143066" a="0" y="11.147954" group="Convoy4"/>-->
+	<group name="Convoy4">
+		<child type="Land_Wreck_Uaz" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="337.296061"/>
+		<child type="StaticObj_Wreck_Decal_Small1_DE" deloot="0" lootmax="3" lootmin="1" x="-9.6924" z="39.2720" y="1.3571" a="170.474854"/>
+		<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="-3.6499" z="7.2842" y="0.7816" a="332.35998"/>
+		<child type="Land_Wreck_V3S_DE" deloot="0" lootmax="3" lootmin="1" x="-8.4116" z="54.2026" y="0.7759" a="351.186053"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="-6.8364" z="13.6260" y="-0.8533" a="334.462881"/>
+		<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="-5.6226" z="21.0356" y="0.2324" a="248.266739"/>
+		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-6.8198" z="60.2568" y="0.1917" a="257.44001000000003"/>
+		<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="-17.1133" z="58.4966" y="0.1037" a="257.440445"/>
+		<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="-14.9385" z="64.9585" y="0.8194" a="299.69672"/>
+		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-6.6045" z="23.8789" y="0.1061" a="248.582016"/>
+		<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="-14.8833" z="20.6455" y="-0.1539" a="68.174332"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="-10.6899" z="21.9868" y="-0.8693" a="347.14639999999997"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="-10.4429" z="36.1602" y="-0.8492" a="11.587008"/>
+	</group>
 	
-<!-- Parent selected as: StaticObj_Misc_SupplyBox3_DE pos: 5814.814941 77.706955 13089.219727 orientation: -179.553757 -0.962379 0.765855 -->
-<!--<pos x="5814.814941" z="13089.219727" a="0" y="77.706955" group="GROUP_NAME_HERE"/>-->
-<group name="Convoy5">
-	<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="180.446243"/>
-	<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="11.9297" z="11.9902" y="-0.0407" a="30.113735"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="-6.1597" z="-5.0586" y="-1.0719" a="46.202847"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="6.3892" z="3.2207" y="-0.8085" a="55.746864"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="24.7451" z="16.5352" y="-0.5230" a="51.968422"/>
-	<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="-22.7700" z="-19.0889" y="0.1574" a="51.109688"/>
-	<child type="Land_Wreck_offroad02_aban1_DE" deloot="0" lootmax="3" lootmin="1" x="42.8955" z="29.9355" y="1.3777" a="52.573746"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="31.1143" z="23.4463" y="0.4330" a="337.650087"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="0.3652" z="-2.8252" y="0.2610" a="199.914688"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-13.0718" z="-11.3555" y="-0.3308" a="267.061295"/>
-</group>
+	<!-- Parent selected as: StaticObj_Misc_SupplyBox1_DE pos: 2912.520508 20.504854 8430.740234 orientation: -147.766769 0.000000 -0.000000 -->
+	<!--<pos x="2912.520508" z="8430.740234" a="0" y="20.504854" group="Convoy5"/>-->
+	<group name="Convoy5">
+		<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="212.233231"/>
+		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="9.4612" z="-16.4561" y="0.2892" a="104.411629"/>
+		<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="8.6606" z="-29.7148" y="0.2938" a="104.412109"/>
+		<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="5.7075" z="-42.2510" y="1.0013" a="181.412918"/>
+		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-1.6956" z="-17.4131" y="0.2633" a="95.553764"/>
+		<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="5.6885" z="5.1553" y="0.0077" a="275.14743799999997"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="7.2551" z="-4.6084" y="-0.7057" a="180.788803"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="6.0435" z="-29.4453" y="-0.7374" a="179.945557"/>
+		<child type="Land_Wreck_Uaz" deloot="0" lootmax="3" lootmin="1" x="7.2185" z="18.6299" y="0.1800" a="184.268311"/>
+		<child type="StaticObj_Wreck_Decal_Small1_DE" deloot="0" lootmax="3" lootmin="1" x="-1.4739" z="-19.5576" y="2.0255" a="17.447174"/>
+		<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="6.8386" z="10.7920" y="1.0262" a="179.331848"/>
+		<child type="Land_Wreck_V3S_DE" deloot="0" lootmax="3" lootmin="1" x="7.0835" z="-16.7393" y="1.4540" a="177.522583"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="3.3096" z="4.4600" y="-0.7110" a="181.435089"/>
+	</group>
 
-<!-- Parent selected as: StaticObj_Misc_SupplyBox3_DE pos: 6468.954590 79.470818 13229.959961 orientation: -100.988060 -0.649076 -0.102781 -->
-<!--<pos x="6468.954590" z="13229.959961" a="0" y="79.470818" group="GROUP_NAME_HERE"/>-->
-<group name="Convoy6">
-	<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="259.01194"/>
-	<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="14.6494" z="-11.6133" y="-0.1629" a="108.675522"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="0.4312" z="3.4922" y="-0.8663" a="130.197525"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="10.2842" z="-5.2959" y="-0.8027" a="134.306549"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="27.2266" z="-18.8525" y="-0.7823" a="130.528839"/>
-	<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="-12.4165" z="13.6533" y="0.7110" a="129.668228"/>
-	<child type="Land_Wreck_offroad02_aban1_DE" deloot="0" lootmax="3" lootmin="1" x="41.8877" z="-32.2354" y="1.0385" a="131.134979"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="31.1636" z="-18.3223" y="0.1460" a="56.211422"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="18.2876" z="-10.4902" y="0.1492" a="278.477524"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-7.0811" z="11.7783" y="0.0144" a="309.080002"/>
-</group>
+	<!-- Parent selected as: Land_Wreck_V3S_DE pos: 4321.388672 12.994572 9151.757813 orientation: 120.578201 0.000000 0.000000 -->
+	<!--<pos x="4321.388672" z="9151.757813" a="0" y="12.994572" group="Convoy6"/>-->
+	<group name="Convoy6">
+		<child type="Land_Wreck_V3S_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="120.578201"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="-20.8062" z="11.9033" y="-1.6386" a="117.247993"/>
+		<child type="StaticObj_Wreck_Decal_Small1_DE" deloot="0" lootmax="3" lootmin="1" x="-32.0942" z="17.7158" y="0.3293" a="314.66360099999997"/>
+		<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="-15.3823" z="2.9629" y="-0.9468" a="149.449524"/>
+		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-2.1831" z="6.1104" y="-0.6675" a="41.627934"/>
+		<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="7.9902" z="-10.2666" y="-0.7076" a="41.62851"/>
+		<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="23.2212" z="-13.6377" y="0.0480" a="118.628998"/>
+		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-12.4219" z="1.1074" y="-0.6831" a="32.769875"/>
+		<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="-27.2471" z="13.2158" y="-0.9525" a="212.364365"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="-10.8901" z="6.9248" y="-1.6837" a="118.005295"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="11.0313" z="-6.1680" y="-1.6248" a="117.16201"/>
+		<child type="Land_Wreck_Uaz" deloot="0" lootmax="3" lootmin="1" x="-47.6929" z="19.5791" y="-0.7359" a="75.47747"/>
+		<child type="StaticObj_Wreck_Decal_Small1_DE" deloot="0" lootmax="3" lootmin="1" x="-6.8569" z="4.4297" y="0.3152" a="314.66360099999997"/>
+		<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="-36.2842" z="18.9355" y="0.0451" a="109.186317"/>
+	</group>
 	
-<!-- Parent selected as: StaticObj_Misc_SupplyBox3_DE pos: 6625.942871 35.323986 11903.773438 orientation: 106.765724 -1.308622 1.038841 -->
-<!--<pos x="6625.942871" z="11903.773438" a="0" y="35.323986" group="GROUP_NAME_HERE"/>-->
-<group name="Convoy7">
-	<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="106.765724"/>
-	<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="-4.2573" z="9.6289" y="0.0450" a="316.430389"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="4.7246" z="-3.6270" y="-1.0667" a="337.951607"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="-1.5283" z="11.5859" y="-0.5768" a="342.058887"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="-7.1680" z="26.6396" y="-0.0020" a="338.287403"/>
-	<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="8.0566" z="-10.8057" y="0.3510" a="337.42539"/>
-	<child type="Land_Wreck_offroad02_aban1_DE" deloot="0" lootmax="3" lootmin="1" x="-13.6943" z="43.7188" y="2.4636" a="338.891773"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-11.0083" z="28.9873" y="1.0364" a="263.966431"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-2.3711" z="5.2363" y="0.1652" a="126.230103"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="1.3154" z="-7.3096" y="-0.2125" a="156.833633"/>
-</group>
+	<!-- Parent selected as: Land_wreck_truck01_aban2_green_DE pos: 4658.318848 20.920277 11014.400391 orientation: -109.746307 -5.962124 -0.134868 -->
+	<!--<pos x="4658.318848" z="11014.400391" a="0" y="20.920277" group="Convoy7"/>-->
+	<group name="Convoy7">
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="250.253693"/>
+		<child type="Land_Wreck_V3S_DE" deloot="0" lootmax="3" lootmin="1" x="-22.5366" z="-7.7402" y="-1.1288" a="249.49601"/>
+		<child type="StaticObj_Wreck_Decal_Small1_DE" deloot="0" lootmax="3" lootmin="1" x="21.4658" z="8.2207" y="4.0586" a="83.581024"/>
+		<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="-3.4180" z="-3.4277" y="0.2407" a="278.36713399999996"/>
+		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-25.2622" z="-11.8584" y="-2.3217" a="170.545914"/>
+		<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="-28.6265" z="-8.0332" y="-2.5308" a="170.546021"/>
+		<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="-51.8691" z="-18.7383" y="-5.1721" a="247.54683699999998"/>
+		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-39.7617" z="-16.7598" y="-4.2955" a="161.687439"/>
+		<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="-8.0703" z="-0.0645" y="-0.1141" a="341.281908"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="-9.5986" z="-3.0000" y="-1.1694" a="250.719025"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="-35.7129" z="-12.3096" y="-4.6025" a="248.825035"/>
+		<child type="Land_Wreck_Uaz" deloot="0" lootmax="3" lootmin="1" x="20.5054" z="7.0898" y="2.8220" a="252.655327"/>
+		<child type="StaticObj_Wreck_Decal_Small1_DE" deloot="0" lootmax="3" lootmin="1" x="-3.2661" z="-1.4307" y="1.6049" a="83.581024"/>
+		<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="11.4458" z="3.9121" y="2.8975" a="250.540588"/>
+	</group>
 	
-<!-- Parent selected as: StaticObj_Misc_SupplyBox3_DE pos: 7123.375488 30.625010 10650.027344 orientation: 106.765022 -0.182772 0.459706 -->
-<!--<pos x="7123.375488" z="10650.027344" a="0" y="30.625010" group="GROUP_NAME_HERE"/>-->
-<group name="Convoy8">
-	<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="106.765022"/>
-	<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="-20.4814" z="59.8857" y="0.3633" a="316.43037400000003"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="-2.4829" z="15.8164" y="-0.7689" a="337.951612"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="-10.5645" z="35.4746" y="-0.5744" a="342.058889"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="-16.4219" z="51.5400" y="-0.3901" a="338.287416"/>
-	<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="3.3491" z="0.5332" y="0.7430" a="337.4254"/>
-	<child type="Land_Wreck_offroad02_aban1_DE" deloot="0" lootmax="3" lootmin="1" x="-22.8208" z="67.6250" y="1.6641" a="338.891785"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-14.6143" z="53.2109" y="0.5207" a="263.966049"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-14.6089" z="42.3857" y="0.4078" a="126.230072"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-4.8140" z="21.5811" y="0.1871" a="156.833618"/>
-</group>
+	<!-- Parent selected as: Land_wreck_truck01_aban2_green_DE pos: 6176.447754 26.463648 13715.593750 orientation: -179.399902 -1.717196 0.518644 -->
+	<!--<pos x="6176.447754" z="13715.593750" a="0" y="26.463648" group="Convoy8"/>-->
+	<group name="Convoy8">
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="180.600098"/>
+		<child type="Land_Wreck_V3S_DE" deloot="0" lootmax="3" lootmin="1" x="-1.0112" z="-29.4883" y="0.4754" a="179.842133"/>
+		<child type="StaticObj_Wreck_Decal_Small1_DE" deloot="0" lootmax="3" lootmin="1" x="0.8711" z="20.0225" y="2.2377" a="13.927176"/>
+		<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="-0.2974" z="-8.2275" y="0.5330" a="208.713959"/>
+		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="2.8584" z="3.1025" y="1.0789" a="100.891701"/>
+		<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="-2.0684" z="-19.8164" y="0.3143" a="100.8918"/>
+		<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="-2.6084" z="-57.0225" y="-1.8541" a="177.892761"/>
+		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-0.3755" z="-45.9814" y="-1.4778" a="92.033356"/>
+		<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="-8.3564" z="-5.7910" y="0.5311" a="271.628426"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="-4.7876" z="-15.4941" y="-0.4797" a="181.065002"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="-3.1279" z="-41.2939" y="-2.0842" a="179.170898"/>
+		<child type="Land_Wreck_Uaz" deloot="0" lootmax="3" lootmin="1" x="1.0469" z="17.5010" y="1.1875" a="183.001648"/>
+		<child type="StaticObj_Wreck_Decal_Small1_DE" deloot="0" lootmax="3" lootmin="1" x="-2.1436" z="-7.2822" y="1.7819" a="13.927163"/>
+		<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="-3.6162" z="10.4209" y="1.8607" a="180.886841"/>
+	</group>
 	
-<!-- Parent selected as: StaticObj_Misc_SupplyBox3_DE pos: 7688.003418 30.934481 9732.459961 orientation: 82.019768 -0.906905 2.368174 -->
-<!--<pos x="7688.003418" z="9732.459961" a="0" y="30.934481" group="GROUP_NAME_HERE"/>-->
-<group name="Convoy9">
-	<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="82.019768"/>
-	<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="-3.9155" z="10.6328" y="0.2715" a="291.686531"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="20.7588" z="-15.7402" y="-1.8078" a="313.206284"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="13.3447" z="-8.7236" y="-1.4892" a="317.313347"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="4.5454" z="2.5254" y="-0.9312" a="313.542126"/>
-	<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="32.3164" z="-29.1660" y="-0.5914" a="312.680019"/>
-	<child type="Land_Wreck_offroad02_aban1_DE" deloot="0" lootmax="3" lootmin="1" x="-10.4927" z="16.7871" y="1.9805" a="314.146435"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-3.8979" z="6.4824" y="0.3746" a="239.220909"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="14.5264" z="-14.4541" y="-0.7703" a="101.486343"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="24.4736" z="-23.5781" y="-1.1281" a="132.088257"/>
-</group>
+	<!-- Parent selected as: Land_wreck_truck01_aban2_green_DE pos: 9159.705078 6.386142 13220.018555 orientation: -58.242828 0.000000 -0.000000 -->
+	<!--<pos x="9159.705078" z="13220.018555" a="0" y="6.386142" group="Convoy9"/>-->
+	<group name="Convoy9">
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="301.75717199999997"/>
+		<child type="Land_Wreck_V3S_DE" deloot="0" lootmax="3" lootmin="1" x="-24.0801" z="15.6367" y="1.6038" a="300.9991"/>
+		<child type="StaticObj_Wreck_Decal_Small1_DE" deloot="0" lootmax="3" lootmin="1" x="17.9092" z="-14.6230" y="1.7874" a="135.08403"/>
+		<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="-4.0527" z="-2.1104" y="0.7004" a="304.735214"/>
+		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="1.8584" z="3.3398" y="0.7600" a="222.048904"/>
+		<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="-15.8350" z="14.6816" y="0.8829" a="222.049072"/>
+		<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="-45.1553" z="28.7412" y="1.6579" a="299.049862"/>
+		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-34.0479" z="26.8291" y="0.9929" a="213.191055"/>
+		<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="-1.1729" z="10.1084" y="-0.6266" a="32.786915"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="-12.7002" z="8.4736" y="0.0157" a="302.22200399999997"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="-32.7549" z="21.1816" y="0.0472" a="300.327911"/>
+		<child type="Land_Wreck_Uaz" deloot="0" lootmax="3" lootmin="1" x="20.3516" z="-16.2246" y="0.9122" a="304.158798"/>
+		<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="10.0254" z="-8.0352" y="1.6516" a="302.04393"/>
+	</group>
 	
-<!-- Parent selected as: Land_wreck_truck01_aban1_green_DE pos: 7963.123535 10.439079 8977.352539 orientation: 172.880569 -1.014485 0.015206 -->
-<!--<pos x="7963.123535" z="8977.352539" a="0" y="10.439079" group="GROUP_NAME_HERE"/>-->
-<group name="Convoy10">
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="172.880569"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="0.8911" z="-19.2021" y="-0.4263" a="176.98642"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="1.8540" z="-31.4043" y="-0.8230" a="173.218948"/>
-	<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="-0.4609" z="12.7617" y="1.7797" a="172.352615"/>
-	<child type="Land_Wreck_offroad02_aban1_DE" deloot="0" lootmax="3" lootmin="1" x="2.8472" z="-52.2998" y="0.1345" a="173.825592"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="5.4478" z="-26.0342" y="0.2091" a="98.90802"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="4.0903" z="-10.4570" y="0.6754" a="321.166142"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="3.0601" z="1.1563" y="0.9063" a="351.761614"/>
-	<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="2.5605" z="-39.4541" y="-0.2496" a="301.702938"/>
-	<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="5.2173" z="-58.3203" y="-1.3489" a="151.389236"/>
-</group>
+	<!-- Parent selected as: Land_wreck_truck01_aban2_green_DE pos: 10723.749023 10.222730 10807.613281 orientation: 156.110031 0.000000 -0.000000 -->
+	<!--<pos x="10723.749023" z="10807.613281" a="0" y="10.222730" group="Convoy10"/>-->
+	<group name="Convoy10">
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="156.110031"/>
+		<child type="Land_Wreck_V3S_DE" deloot="0" lootmax="3" lootmin="1" x="9.9951" z="-23.8066" y="1.6185" a="155.351913"/>
+		<child type="StaticObj_Wreck_Decal_Small1_DE" deloot="0" lootmax="3" lootmin="1" x="-9.1455" z="19.8037" y="1.9707" a="349.437029"/>
+		<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="-1.6904" z="-5.2842" y="0.7252" a="159.088089"/>
+		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="1.8291" z="2.2559" y="0.9943" a="63.591614"/>
+		<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="9.1123" z="-17.9023" y="1.0435" a="76.401871"/>
+		<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="17.9092" z="-45.4629" y="1.6711" a="153.402679"/>
+		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="12.9678" z="-37.1904" y="1.0335" a="67.543907"/>
+		<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="8.6533" z="-16.0469" y="0.7801" a="247.139946"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="2.4756" z="-11.1455" y="0.0012" a="156.574982"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="13.5879" z="-33.8887" y="0.0620" a="154.680984"/>
+		<child type="Land_Wreck_Uaz" deloot="0" lootmax="3" lootmin="1" x="-9.9004" z="22.0527" y="0.9129" a="158.511993"/>
+		<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="-5.4492" z="9.8867" y="1.6211" a="156.396973"/>
+		<child type="StaticObj_Wreck_Decal_Small1_DE" deloot="0" lootmax="3" lootmin="1" x="18.9111" z="-48.5938" y="2.0466" a="349.437029"/>
+	</group>
 	
-<!-- Parent selected as: Land_wreck_truck01_aban1_green_DE pos: 9132.978516 37.188225 9472.960938 orientation: -100.422218 0.914319 -0.053762 -->
-<!--<pos x="9132.978516" z="9472.960938" a="0" y="37.188225" group="GROUP_NAME_HERE"/>-->
-<group name="Convoy11">
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="259.577782"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="-18.0527" z="-2.4893" y="0.4193" a="263.68187"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="-46.2764" z="-5.5137" y="1.1104" a="259.915695"/>
-	<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="11.5771" z="1.1826" y="1.4894" a="259.049873"/>
-	<child type="Land_Wreck_offroad02_aban1_DE" deloot="0" lootmax="3" lootmin="1" x="-71.0947" z="-8.2422" y="3.2066" a="260.521698"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-30.6846" z="-7.8066" y="1.6528" a="185.627731"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-37.9639" z="-4.7314" y="1.8234" a="47.872578"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-3.3096" z="-3.4316" y="0.9696" a="78.458801"/>
-	<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="-30.6211" z="-3.0254" y="1.6126" a="28.435308"/>
-	<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="-59.8506" z="-7.5322" y="1.9623" a="238.104568"/>
-</group>
+	<!-- Parent selected as: Land_wreck_truck01_aban2_green_DE pos: 9034.532227 13.661717 10219.848633 orientation: 156.110016 1.279562 0.059795 -->
+	<!--<pos x="9034.532227" z="10219.848633" a="0" y="13.661717" group="Convoy11"/>-->
+	<group name="Convoy11">
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="156.110016"/>
+		<child type="Land_Wreck_V3S_DE" deloot="0" lootmax="3" lootmin="1" x="5.5029" z="-11.7002" y="1.8322" a="155.351913"/>
+		<child type="StaticObj_Wreck_Decal_Small1_DE" deloot="0" lootmax="3" lootmin="1" x="-7.6523" z="18.4951" y="1.3516" a="349.437029"/>
+		<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="-4.7695" z="16.2207" y="0.2336" a="159.087997"/>
+		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="5.6826" z="-6.3916" y="1.1572" a="63.591614"/>
+		<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="8.8955" z="-22.7178" y="1.3016" a="76.401871"/>
+		<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="21.4873" z="-44.8486" y="1.9934" a="153.403"/>
+		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="19.8877" z="-35.5449" y="1.3272" a="67.543907"/>
+		<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="10.2715" z="-16.1650" y="1.0105" a="247.139946"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="11.6182" z="-24.4346" y="0.3281" a="156.574982"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="15.8281" z="-33.8486" y="0.3119" a="154.680984"/>
+		<child type="Land_Wreck_Uaz" deloot="0" lootmax="3" lootmin="1" x="-8.3018" z="19.2510" y="0.2676" a="158.511993"/>
+		<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="-3.5195" z="8.9912" y="1.4397" a="156.396973"/>
+		<child type="StaticObj_Wreck_Decal_Small1_DE" deloot="0" lootmax="3" lootmin="1" x="22.2646" z="-47.9551" y="2.3320" a="349.437029"/>
+	</group>
 	
-<!-- Parent selected as: Land_wreck_truck01_aban1_green_DE pos: 9926.358398 32.290665 9558.906250 orientation: 80.182144 3.527023 0.429479 -->
-<!--<pos x="9926.358398" z="9558.906250" a="0" y="32.290665" group="GROUP_NAME_HERE"/>-->
-<group name="Convoy12">
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="80.182144"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="19.7939" z="1.8438" y="1.2729" a="84.30056"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="47.2354" z="5.5742" y="3.1912" a="80.519913"/>
-	<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="-14.9736" z="-1.1514" y="0.7927" a="79.65406"/>
-	<child type="Land_Wreck_offroad02_aban1_DE" deloot="0" lootmax="3" lootmin="1" x="71.7422" z="7.9102" y="6.7494" a="81.142639"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="29.8350" z="3.0449" y="2.8548" a="6.205727"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="58.0596" z="8.3057" y="4.8794" a="228.349121"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="3.3193" z="4.0850" y="1.1729" a="259.055428"/>
-	<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="11.0449" z="1.8877" y="1.6109" a="208.926483"/>
-	<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="61.2324" z="6.1260" y="4.7912" a="58.648811"/>
-</group>
-	
-<!-- Parent selected as: StaticObj_Misc_SupplyBox2_DE pos: 5226.756348 108.221642 13499.619141 orientation: -106.127327 1.229466 1.982583 -->
-<!--<pos x="5226.756348" z="13499.619141" a="0" y="108.221642" group="GROUP_NAME_HERE"/>-->
-<group name="Convoy13">
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="253.87267300000002"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-33.5112" z="19.1328" y="0.1343" a="284.44955400000003"/>
-	<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="-3.6196" z="0.4854" y="0.0246" a="234.43705699999998"/>
-	<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="26.3218" z="-0.0703" y="0.1533" a="84.093643"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="-18.6313" z="9.6113" y="-0.7478" a="105.56884"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="-2.9385" z="4.3164" y="-0.8866" a="109.67038"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="19.6948" z="3.8350" y="-0.7429" a="78.594727"/>
-	<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="-36.4478" z="15.7129" y="0.8602" a="105.041298"/>
-	<child type="Land_Wreck_offroad02_aban1_DE" deloot="0" lootmax="3" lootmin="1" x="32.8354" z="9.6563" y="1.6235" a="50.879951"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-26.0356" z="8.6016" y="0.1573" a="31.628302"/>
-</group>	
-	
-<!-- Parent selected as: StaticObj_Misc_SupplyBox2_DE pos: 3539.164307 201.034424 13882.316406 orientation: 166.005905 5.158535 -10.870055 -->
-<!--<pos x="3539.164307" z="13882.316406" a="0" y="201.034424" group="GROUP_NAME_HERE"/>-->
-<group name="Convoy14">
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="166.005905"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-2.6467" z="-25.4375" y="2.7096" a="196.583496"/>
-	<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="-6.2813" z="-16.8799" y="1.7566" a="146.570694"/>
-	<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="4.7495" z="27.1143" y="-1.9748" a="356.22686"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="1.1008" z="-12.9629" y="0.3986" a="17.700113"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="4.8198" z="-0.9033" y="-0.9723" a="21.800703"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="7.3196" z="16.4121" y="-1.7886" a="3.328212"/>
-	<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="-7.3545" z="-34.9287" y="4.6402" a="17.175301"/>
-	<child type="Land_Wreck_offroad02_aban1_DE" deloot="0" lootmax="3" lootmin="1" x="7.4504" z="39.1416" y="-1.8241" a="355.355922"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-1.2788" z="-30.9502" y="4.7430" a="303.757587"/>
-</group>	
-	
-<!-- Parent selected as: StaticObj_Misc_SupplyBox2_DE pos: 4756.637695 121.240166 14024.128906 orientation: -123.008461 -4.273687 -1.652317 -->
-<!--<pos x="4756.637695" z="14024.128906" a="0" y="121.240166" group="GROUP_NAME_HERE"/>-->
-<group name="Convoy15">
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="236.991539"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-21.2324" z="-1.8145" y="-1.2786" a="267.569405"/>
-	<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="-2.6621" z="9.0566" y="-0.1066" a="217.556274"/>
-	<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="26.4468" z="-0.4209" y="0.6445" a="67.212585"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="-20.1968" z="3.6924" y="-1.8963" a="88.686012"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="-5.5723" z="4.1191" y="-1.1199" a="92.786499"/>
-	<child type="Land_wreck_truck01_aban1_green_DE" deloot="0" lootmax="3" lootmin="1" x="12.4214" z="4.3896" y="-0.3574" a="91.781815"/>
-	<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="-34.7148" z="3.2480" y="-1.2808" a="88.161186"/>
-	<child type="Land_Wreck_offroad02_aban1_DE" deloot="0" lootmax="3" lootmin="1" x="33.1807" z="5.0830" y="2.0831" a="92.678406"/>
-	<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-27.2139" z="9.5996" y="-1.4175" a="14.743114"/>
-</group>
+	<!-- Parent selected as: Land_Wreck_V3S_DE pos: 6789.473633 514.087952 12483.323242 orientation: -103.467941 -11.955109 -2.568898 -->
+	<!--<pos x="6789.473633" z="12483.323242" a="0" y="514.087952" group="Convoy12"/>-->
+	<group name="Convoy12">
+		<child type="Land_Wreck_V3S_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" y="0" a="256.532059"/>
+		<child type="StaticObj_Wreck_Decal_Small1_DE" deloot="0" lootmax="3" lootmin="1" x="34.0620" z="10.4307" y="7.3630" a="90.616997"/>
+		<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="20.1533" z="2.7969" y="3.1902" a="260.268127"/>
+		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="6.3486" z="4.8984" y="1.0545" a="164.770798"/>
+		<child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="3" lootmin="1" x="-0.2935" z="-2.9756" y="-0.8683" a="177.581345"/>
+		<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="-34.3838" z="-9.7236" y="-6.7571" a="254.583023"/>
+		<child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="3" lootmin="1" x="-25.4229" z="-11.0498" y="-6.1821" a="168.72345"/>
+		<child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="3" lootmin="1" x="-18.0439" z="-3.4863" y="-4.7048" a="348.320094"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="-12.0454" z="-3.0488" y="-4.2280" a="257.75518"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="-23.2524" z="-6.5674" y="-6.5217" a="255.86113"/>
+		<child type="Land_Wreck_Uaz" deloot="0" lootmax="3" lootmin="1" x="36.0732" z="10.1924" y="6.6124" a="259.692154"/>
+		<child type="Land_Wreck_offroad02_aban2_DE" deloot="0" lootmax="3" lootmin="1" x="23.3252" z="6.5664" y="4.8839" a="257.57714799999997"/>
+		<child type="StaticObj_Wreck_Decal_Small1_DE" deloot="0" lootmax="3" lootmin="1" x="-38.1338" z="-10.7715" y="-7.0291" a="90.616997"/>
+		<child type="Land_wreck_truck01_aban2_green_DE" deloot="0" lootmax="3" lootmin="1" x="13.3945" z="3.8281" y="1.3705" a="257.29015400000003"/>
+	</group>
 	
 	<!-- Parent selected as: StaticObj_Wreck_Decal_Small1_DE pos: 5818.043945 10.779129 8314.501953 orientation: 11.152858 0.027707 -0.140537 -->
 	<!--<pos x="5818.043945" z="8314.501953" a="0" y="10.779129" group="Police1"/>-->
