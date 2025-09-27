@@ -646,8 +646,7 @@
     <item name="SmershVest" chance="0.1" />
 	<item name="PressVest_Blue" chance="0.1" />
     <item name="PressVest_LightBlue" chance="0.1" />
-	<item name="HuntingVest" chance="0.1" />	
-	<item name="PlateCarrierVest" chance="0.10" />
+	<item name="HuntingVest" chance="0.1" />		
   </attachments>
   <attachments chance="1.00" name="STAG_Hats">
     <item name="STAG_Clothing_Beret" chance="0.25" />
