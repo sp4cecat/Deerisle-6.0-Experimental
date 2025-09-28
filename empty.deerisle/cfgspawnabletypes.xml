@@ -1057,6 +1057,9 @@
 			<item name="AntiChemInjector" chance="1.0" />
 		</cargo>
 	</type>
+	<type name="ZmbM_NBC_White">
+		<cargo preset="NBC_Clothes" />		
+	</type>
 	<!--ARMY-->
 	<type name="ZmbM_PatrolNormal_Autumn">
 		<cargo preset="foodArmy" />

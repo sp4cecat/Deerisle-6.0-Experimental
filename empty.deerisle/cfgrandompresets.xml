@@ -481,6 +481,18 @@
     <item name="NBCGlovesYellow" chance="0.03" />
     <item name="NBCGlovesGray" chance="0.01" />
   </cargo>
+  <cargo chance="0.2" name="NBC_Clothes">    
+    <item name="NBCBootsYellow" chance="0.1" />
+    <item name="NBCBootsGray" chance="0.1" />
+    <item name="NBCHoodYellow" chance="0.1" />
+    <item name="NBCHoodGray" chance="0.1" />
+    <item name="NBCGlovesYellow" chance="0.1" />
+    <item name="NBCGlovesGray" chance="0.1" /> 
+	<item name="NBCJacketYellow" chance="0.1" />
+    <item name="NBCPantsYellow" chance="0.1" /> 
+	<item name="NBCJacketGrey" chance="0.1" />
+    <item name="NBCPantsGrey" chance="0.1" /> 	
+  </cargo>  
   <cargo chance="1.0" name="Xmas_Weapons_Small">
     <item name="Flaregun" chance="0.10" />
     <item name="M67Grenade" chance="0.10" />
