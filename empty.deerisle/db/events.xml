@@ -853,7 +853,7 @@
     </event>	
     <event name="StaticPoliceCar">
         <nominal>5</nominal>
-        <min></min>
+        <min>3</min>
         <max>5</max>
         <lifetime>1200</lifetime>
         <restock>0</restock>
