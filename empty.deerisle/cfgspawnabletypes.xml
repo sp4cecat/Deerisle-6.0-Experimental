@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <spawnabletypes>
+	<type name="Jmc_Keycard">
+            <damage min="0.0" max="0.0" />            
+    </type>
+    <type name="Jmc_Keycard2">
+            <damage min="0.0" max="0.0" />
+    </type>
+    <type name="Jmc_Keycard3">
+            <damage min="0.0" max="0.0" />
+    </type>
+    <type name="STAG_PunchedCard">
+            <damage min="0.0" max="0.0" />
+    </type>
 	<type name="Barrel_Blue">
 		<hoarder />
 	</type>
@@ -97,7 +109,7 @@
 	</type>
 	<type name="Mich2001Helmet">
 		<damage min="0.1" max="0.6" />
-		<attachments chance="0.85">
+		<attachments chance="0.25">
 			<item name="NVGoggles" chance="1.00" />
 			<item name="Battery9V" chance="1.00" />
 		</attachments>
@@ -294,15 +306,15 @@
 	</type>
 	<type name="AirborneMask">
 		<damage min="0.0" max="0.35" />
-		<cargo chance="0.2">
-			<item name="GasMask_Filter" />
-		</cargo>
+		<attachments chance="0.10">
+			<item name="GasMask_Filter" chance="0.20" />
+		</attachments>				
 	</type>
 	<type name="GP5GasMask">
 		<damage min="0.0" max="0.35" />
-		<cargo chance="0.2">
-			<item name="GasMask_Filter" />
-		</cargo>
+		<attachments chance="0.10">
+			<item name="GasMask_Filter" chance="0.20" />
+		</attachments>				
 	</type>
 	<type name="GasMask">
 		<damage min="0.0" max="0.35" />
@@ -3819,12 +3831,7 @@
 		<attachments chance="0.3">
 			<item name="Mag_AKM_30Rnd" chance="1.00" />
 		</attachments>		
-	</type>			
-	<type name="ttstg44">
-		<attachments chance="0.3">
-			<item name="Mag_AKM_30Rnd" chance="1.00" />
-		</attachments>		
-	</type>			
+	</type>				
 	<type name="ttp90">
 		<attachments chance="0.3">
 			<item name="ttp90mag" chance="1.00" />
@@ -3837,7 +3844,7 @@
 	</type>	
 	<type name="aek">
 		<attachments chance="0.3">
-			<item name="Mag_AKA101_30Rnd" chance="1.00" />
+			<item name="Mag_AK101_30Rnd" chance="1.00" />
 		</attachments>		
 	</type>	
 	<type name="junkak">

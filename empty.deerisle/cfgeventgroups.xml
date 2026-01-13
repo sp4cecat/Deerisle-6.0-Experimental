@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <eventgroupdef>    
     <group name="Camp_01">			
-		<child type="Land_jmc_ce_oven" spawnsecondary="false" deloot="0" lootmax="1" lootmin="1" x="0.000" z="0.000" a="21.916" y="0.000"/>
-		<child type="Land_jmc_ce_box2" spawnsecondary="false" deloot="1" lootmax="1" lootmin="1" x="3.842" z="2.764" a="209.359" y="0.200"/>
+		<child type="Land_jmc_ce_oven" spawnsecondary="false" deloot="1" lootmax="2" lootmin="1" x="0.000" z="0.000" a="21.916" y="0.000"/>
+		<child type="Land_jmc_ce_box2" spawnsecondary="false" deloot="1" lootmax="2" lootmin="1" x="3.842" z="2.764" a="209.359" y="0.200"/>
 		<child type="jmc_logburned1" spawnsecondary="false" x="-0.127" z="0.057" a="217.419" y="0.050"/>
 		<child type="jmc_logburned3" spawnsecondary="false" x="0.069" z="-0.066" a="0.000" y="0.050"/>
 		<child type="jmc_bag_dz" deloot="0" lootmax="1" lootmin="1" x="4.065" z="4.054" a="309.784" y="0.200"/>
-		<child type="Land_jmc_ce_box1" deloot="0" lootmax="1" lootmin="1" x="-3.255" z="1.946" a="22.173" y="0.200"/>
-		<child type="Land_jmc_ce_box1" deloot="0" lootmax="1" lootmin="1" x="1.422" z="-4.241" a="146.319" y="0.200"/>
+		<child type="Land_jmc_ce_box1" deloot="0" lootmax="2" lootmin="1" x="-3.255" z="1.946" a="22.173" y="0.200"/>
+		<child type="Land_jmc_ce_box1" deloot="0" lootmax="2" lootmin="1" x="1.422" z="-4.241" a="146.319" y="0.200"/>
 		<child type="jmc_woodblock" spawnsecondary="false" x="-1.433" z="1.224" a="198.598" y="0.300"/>
 		<child type="jmc_woodblock" spawnsecondary="false" x="-0.080" z="-1.728" a="337.440" y="0.300"/>
 		<child type="jmc_woodblock" spawnsecondary="false" x="1.675" z="-0.066" a="114.803" y="0.300"/>
-		<child type="Land_jmc_ce_tent" deloot="0" lootmax="1" lootmin="1" x="-4.013" z="-0.422" a="79.473" y="0.000"/>
-		<child type="Land_jmc_ce_tent" deloot="0" lootmax="1" lootmin="1" x="3.285" z="-3.347" a="318.353" y="0.000"/>
-		<child type="Land_jmc_ce_tent" deloot="0" lootmax="1" lootmin="1" x="1.723" z="3.787" a="202.268" y="0.000"/>
+		<child type="Land_jmc_ce_tent" deloot="0" lootmax="2" lootmin="1" x="-4.013" z="-0.422" a="79.473" y="0.000"/>
+		<child type="Land_jmc_ce_tent" deloot="0" lootmax="2" lootmin="1" x="3.285" z="-3.347" a="318.353" y="0.000"/>
+		<child type="Land_jmc_ce_tent" deloot="0" lootmax="2" lootmin="1" x="1.723" z="3.787" a="202.268" y="0.000"/>
 		<child type="jmc_woodpile" spawnsecondary="false" x="-3.542" z="-2.442" a="77.736" y="0.200"/>
 		<child type="jmc_logburned2" spawnsecondary="false" x="-0.096" z="-0.147" a="287.163" y="0.050"/>
-		<child type="Land_jmc_skeleton_old_3" deloot="0" lootmax="1" lootmin="1" x="-3.388" z="-2.839" a="251.128" y="0.050"/>
-		<child type="Land_jmc_skeleton_old_5" deloot="0" lootmax="1" lootmin="1" x="3.483" z="2.069" a="41.000" y="0.050"/>
-		<child type="Land_jmc_skeleton_old_2" deloot="0" lootmax="1" lootmin="1" x="1.794" z="-1.940" a="304.566" y="0.050"/>			
+		<child type="Land_jmc_skeleton_old_3" deloot="0" lootmax="2" lootmin="1" x="-3.388" z="-2.839" a="251.128" y="0.050"/>
+		<child type="Land_jmc_skeleton_old_5" deloot="0" lootmax="2" lootmin="1" x="3.483" z="2.069" a="41.000" y="0.050"/>
+		<child type="Land_jmc_skeleton_old_2" deloot="0" lootmax="2" lootmin="1" x="1.794" z="-1.940" a="304.566" y="0.050"/>			
     </group>       
 	
 	<!-- Parent selected as: Land_Wreck_Uaz pos: 10024.588867 33.997204 5522.352539 orientation: 98.814995 0.000000 -0.000000 -->
