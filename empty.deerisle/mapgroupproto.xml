@@ -26460,25 +26460,110 @@
 						<point pos="0.698278 -1.879131 1.431082" range="0.621094" height="1.552734" />
 				</container>
 		</group>	
-		<group name="Land_STAG_Submarine_Dark"> <!-- Sakhal 1.27-->
+		<group name="Land_STAG_Submarine" lootmax="10">
 				<usage name="Military" />
-				<container name="lootweapons" lootmax="10">
+				<usage name="Medic" />
+				<container name="lootweapons" lootmax="5">
 						<category name="weapons" />
-						<category name="explosives" />
-						<point pos="34.968750 1.971680 7.772643"  range="0.7" height="0.5"  />
-						<point pos="-11.406250 2.308106 7.572508" range="0.7" height="0.5"  />
-						<point pos="45.515625 1.139161 8.041583"  range="0.7" height="0.5" />
-						<point pos="-17.984375 0.237305 7.574593" range="0.7" height="0.5" />
-						<point pos="-35.296875 2.027833 7.507882" range="0.7" height="0.5" />
-						<point pos="-6.281250 1.346192 7.572508"  range="0.7" height="0.5" />
-						<point pos="-24.843750 2.422364 7.524559" range="0.7" height="0.5" />
-						<point pos="13.718750 0.935547 7.574593"  range="0.7" height="0.5" />
-						<point pos="-40.296875 1.468750 7.045016" range="0.7" height="0.5" />
-						<point pos="-30.828125 0.841309 7.422408" range="0.7" height="0.5" />
-						<point pos="-43.109375 1.359864 6.799052" range="0.7" height="0.5" />
-						<point pos="20.359375 2.141114 7.578763"  range="0.7" height="0.5" />
-						<point pos="25.312500 0.663575 7.582083"  range="0.7" height="0.5" />
-						<point pos="3.997351 -1.885437 4.110308"  range="0.7" height="0.5" />						
+						<category name="explosives" />												
+						<point pos="2.184194 7.520755 0.693445" range="1.200000" height="2.000000" flags="16" />
+						<point pos="2.101269 7.520753 11.764092" range="1.200000" height="2.000000" flags="16" />
+						<point pos="0.958154 7.520743 17.186838" range="1.200000" height="2.000000" flags="16" />
+						<point pos="1.799447 7.509606 21.733414" range="0.443750" height="1.109375" flags="16" />
+						<point pos="-0.063007 7.647333 -17.876020" range="1.131250" height="2.000003" flags="16" />
+						<point pos="1.358769 7.523970 -23.073086" range="0.959375" height="2.000005" flags="16" />
+						<point pos="1.664147 7.577967 -28.356594" range="1.200000" height="2.000000" flags="16" />
+						<point pos="3.056297 7.545826 -10.911866" range="0.638673" height="1.596681" flags="16" />
+						<point pos="1.419967 8.379050 -12.214982" range="0.237500" height="0.593750" flags="16" />
+				</container>
+				<container name="lootweapons2" lootmax="5">
+						<category name="weapons" />
+						<category name="explosives" />						
+						<point pos="0.201736 7.520758 -1.507071" range="0.793945" height="1.805228" flags="16" />
+						<point pos="0.903093 7.520730 6.769810" range="1.200000" height="2.000000" flags="16" />
+						<point pos="2.939536 7.520735 -4.033612" range="0.615625" height="1.539063" flags="16" />
+						<point pos="2.976117 7.557462 -14.323380" range="1.165625" height="2.000000" flags="16" />
+						<point pos="1.554102 7.593839 -20.186205" range="1.200000" height="2.000022" flags="16" />
+						<point pos="1.068703 7.519193 20.111835" range="1.200000" height="2.000002" flags="16" />
+						<point pos="1.432536 7.687544 -33.638676" range="1.200000" height="1.999998" flags="16" />
+						<point pos="0.305503 9.761182 -3.018134" range="0.784180" height="1.960449" flags="16" />
+						<point pos="2.097564 7.520755 9.173221" range="1.200000" height="2.000000" flags="16" />
+
+				</container>
+				<container name="lootweapons3" lootmax="5">
+						<category name="weapons" />
+						<category name="explosives" />						
+						<point pos="1.174734 7.537934 -25.805819" range="0.856250" height="2.000000" flags="16" />
+						<point pos="2.057894 7.624013 -30.576180" range="0.787500" height="1.968750" flags="16" />
+						<point pos="1.333910 7.742552 -36.294209" range="0.993750" height="2.000000" flags="16" />
+						<point pos="-0.379326 7.598397 -13.964981" range="0.890625" height="2.000000" flags="16" />
+						<point pos="2.245647 7.520737 4.727935" range="1.200000" height="2.000000" flags="16" />
+						<point pos="1.485083 7.520740 14.365205" range="1.200000" height="2.000000" flags="16" />
+						<point pos="2.591502 9.761168 -2.432475" range="0.753125" height="1.882813" flags="16" />
+						<point pos="2.628106 7.570173 -17.082556" range="1.200000" height="2.000031" flags="16" />
+						<point pos="2.616708 7.520731 16.016741" range="0.581250" height="1.453125" flags="16" />						
+				</container>
+				<container name="loottools" lootmax="3">
+						<category name="tools" />						
+						<point pos="1.682307 9.761174 -1.388592" range="0.581250" height="1.453125" flags="16" />
+						<point pos="0.108122 7.520753 8.977121" range="0.684375" height="1.710938" flags="16" />						
+						<point pos="2.595319 7.520593 18.551132" range="0.546875" height="1.367188" flags="16" />
+						<point pos="0.539113 9.761181 -1.571135" range="0.546875" height="1.367188" flags="16" />
+						<point pos="1.458765 9.761178 -6.011680" range="0.706055" height="1.765138" flags="16" />
+						<point pos="1.345479 9.761177 -4.390566" range="0.919011" height="2.000000" flags="16" />
 				</container>
 		</group>	
+		<group name="Land_STAG_Submarine_Dark" lootmax="5">
+				<usage name="Military" />
+				<usage name="Medic" />
+				<container name="lootweapons" lootmax="5">
+						<category name="weapons" />
+						<category name="explosives" />												
+						<point pos="2.184194 7.520755 0.693445" range="1.200000" height="2.000000" flags="16" />
+						<point pos="2.101269 7.520753 11.764092" range="1.200000" height="2.000000" flags="16" />
+						<point pos="0.958154 7.520743 17.186838" range="1.200000" height="2.000000" flags="16" />
+						<point pos="1.799447 7.509606 21.733414" range="0.443750" height="1.109375" flags="16" />
+						<point pos="-0.063007 7.647333 -17.876020" range="1.131250" height="2.000003" flags="16" />
+						<point pos="1.358769 7.523970 -23.073086" range="0.959375" height="2.000005" flags="16" />
+						<point pos="1.664147 7.577967 -28.356594" range="1.200000" height="2.000000" flags="16" />
+						<point pos="3.056297 7.545826 -10.911866" range="0.638673" height="1.596681" flags="16" />
+						<point pos="1.419967 8.379050 -12.214982" range="0.237500" height="0.593750" flags="16" />
+				</container>
+				<container name="lootweapons2" lootmax="5">
+						<category name="weapons" />
+						<category name="explosives" />						
+						<point pos="0.201736 7.520758 -1.507071" range="0.793945" height="1.805228" flags="16" />
+						<point pos="0.903093 7.520730 6.769810" range="1.200000" height="2.000000" flags="16" />
+						<point pos="2.939536 7.520735 -4.033612" range="0.615625" height="1.539063" flags="16" />
+						<point pos="2.976117 7.557462 -14.323380" range="1.165625" height="2.000000" flags="16" />
+						<point pos="1.554102 7.593839 -20.186205" range="1.200000" height="2.000022" flags="16" />
+						<point pos="1.068703 7.519193 20.111835" range="1.200000" height="2.000002" flags="16" />
+						<point pos="1.432536 7.687544 -33.638676" range="1.200000" height="1.999998" flags="16" />
+						<point pos="0.305503 9.761182 -3.018134" range="0.784180" height="1.960449" flags="16" />
+						<point pos="2.097564 7.520755 9.173221" range="1.200000" height="2.000000" flags="16" />
+
+				</container>
+				<container name="lootweapons3" lootmax="5">
+						<category name="weapons" />
+						<category name="explosives" />						
+						<point pos="1.174734 7.537934 -25.805819" range="0.856250" height="2.000000" flags="16" />
+						<point pos="2.057894 7.624013 -30.576180" range="0.787500" height="1.968750" flags="16" />
+						<point pos="1.333910 7.742552 -36.294209" range="0.993750" height="2.000000" flags="16" />
+						<point pos="-0.379326 7.598397 -13.964981" range="0.890625" height="2.000000" flags="16" />
+						<point pos="2.245647 7.520737 4.727935" range="1.200000" height="2.000000" flags="16" />
+						<point pos="1.485083 7.520740 14.365205" range="1.200000" height="2.000000" flags="16" />
+						<point pos="2.591502 9.761168 -2.432475" range="0.753125" height="1.882813" flags="16" />
+						<point pos="2.628106 7.570173 -17.082556" range="1.200000" height="2.000031" flags="16" />
+						<point pos="2.616708 7.520731 16.016741" range="0.581250" height="1.453125" flags="16" />						
+				</container>
+				<container name="loottools" lootmax="3">
+						<category name="tools" />						
+						<point pos="1.682307 9.761174 -1.388592" range="0.581250" height="1.453125" flags="16" />
+						<point pos="0.108122 7.520753 8.977121" range="0.684375" height="1.710938" flags="16" />						
+						<point pos="2.595319 7.520593 18.551132" range="0.546875" height="1.367188" flags="16" />
+						<point pos="0.539113 9.761181 -1.571135" range="0.546875" height="1.367188" flags="16" />
+						<point pos="1.458765 9.761178 -6.011680" range="0.706055" height="1.765138" flags="16" />
+						<point pos="1.345479 9.761177 -4.390566" range="0.919011" height="2.000000" flags="16" />
+				</container>
+		</group>			
 </prototype>
