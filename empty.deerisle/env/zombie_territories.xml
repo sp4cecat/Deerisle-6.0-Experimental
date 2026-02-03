@@ -623,7 +623,11 @@
         <zone name="InfectedArmyHardJMCWinter" smin="0" smax="0" dmin="3" dmax="5" x="11640" z="15572" r="100"/>
         <zone name="InfectedArmyHardJMCWinter" smin="0" smax="0" dmin="3" dmax="5" x="11384" z="15428" r="100"/>
         <zone name="InfectedArmyHardJMCWinter" smin="0" smax="0" dmin="3" dmax="5" x="11000" z="15412" r="100"/>
-        <zone name="InfectedArmyHardJMCWinter" smin="0" smax="0" dmin="3" dmax="5" x="10912" z="15148" r="100"/>
+        <zone name="InfectedArmyHardJMCWinter" smin="0" smax="0" dmin="3" dmax="5" x="10912" z="15148" r="100"/>		
+		<zone name="InfectedArmyHard" smin="0" smax="0" dmin="6" dmax="10" x="6318" z="15129" r="60"/>
+		<zone name="InfectedArmyHard" smin="0" smax="0" dmin="6" dmax="10" x="6247" z="15207" r="60"/>
+		<zone name="InfectedArmyHard" smin="0" smax="0" dmin="6" dmax="10" x="6185" z="15305" r="60"/>
+		<zone name="InfectedArmyHard" smin="0" smax="0" dmin="6" dmax="10" x="6073" z="15386" r="60"/>			
     </territory>
     <territory color="1694498687">
         <zone name="InfectedNBC" smin="20" smax="30" dmin="0" dmax="0" x="14028" z="2136" r="300"/>
