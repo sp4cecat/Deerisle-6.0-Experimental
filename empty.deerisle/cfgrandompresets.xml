@@ -702,7 +702,7 @@
     <item name="Mag_AKM_30Rnd" chance="0.05" />
     <item name="Mag_AUG_30Rnd" chance="0.05" />
     <item name="Mag_AKM_30Rnd" chance="0.05" />
-	<item name="STAG_Battery9V" chance="0.05" />
+	<item name="STAG_Battery9V" chance="0.05" />	
   </cargo>
   <attachments chance="0.05" name="STAG_Bags">
     <item name="STAG_Clothing_6sh118" chance="0.01" />
@@ -717,7 +717,7 @@
 	<item name="STAG_SmershVest" chance="0.2" />
     <item name="STAG_Clothing_PlateCarrier" chance="0.01" />    
   </attachments>   
-  <cargo chance="0.90" name="STAG_Clothing">
+  <cargo chance="0.75" name="STAG_Clothing">
     <item name="STAG_AmmoBox_SnowOwl" chance="0.01" />
 	<item name="STAG_Canteen" chance="0.03" />
 	<item name="STAG_CreamCheese" chance="0.03" />
@@ -743,6 +743,7 @@
     <item name="STAG_Clothing_M65_Jacket" chance="0.03" />
     <item name="STAG_Clothing_Cargo_Pants" chance="0.03" />
     <item name="STAG_Clothing_Pouches" chance="0.03" />    
+	<item name="STAG_RepairKit" chance="0.01" />    	
   </cargo>  
   <cargo chance="1.0" name="STAG_QuestItem">
     <item name="ScientificBriefcaseKeys" chance="0.02" />      
